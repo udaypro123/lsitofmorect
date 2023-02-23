@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lsitofmorect/static/css/main.0bf7b2ed.css",
+    "main.js": "/lsitofmorect/static/js/main.93437d55.js",
+    "index.html": "/lsitofmorect/index.html",
+    "main.0bf7b2ed.css.map": "/lsitofmorect/static/css/main.0bf7b2ed.css.map",
+    "main.93437d55.js.map": "/lsitofmorect/static/js/main.93437d55.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bf7b2ed.css",
+    "static/js/main.93437d55.js"
+  ]
+}
