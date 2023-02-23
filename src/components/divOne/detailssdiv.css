@@ -1,0 +1,109 @@
+.part1div{
+    height: 400px;
+    width: 70%;
+    margin-top: 6%;
+    display: flex;
+    box-shadow: 5px -10px 30px 0px  rgb(89, 29, 29);
+    border-radius: 15px;
+}
+
+/*   content part ------------------------*/
+
+
+.contentdiv1{
+    height: 400px;
+    width: 50%;
+    background-color: rgb(0, 0, 0);
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+
+.contentdiv2{
+    height: 100%;
+    width: 50%;
+  
+}
+.contentdiv2 img{
+    height: 100%;
+    width: 100%;
+    mask-image: linear-gradient(to left, rgba(0,0,0,1), rgba(0,0,0,0));
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+.part1ofcontentdiv{
+    height: 150px;
+    width: 100%;
+    display: flex;
+}
+
+.part2ofcontentdiv{
+    height: 150px;
+    width: 100%;
+    color: white;
+}
+.part3ofcontentdiv{
+    height: 100px;
+    width: 100%;
+}
+.part3ofcontentdiv img{
+    height: 20px;
+    width: 5%;
+    margin: 25px;
+}
+
+.part1ofcontentdivPart1{
+    height: 100%;
+    width: 35%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.part1ofcontentdivPart1 img{
+    height: 95%;
+    width: 75%;
+    border-radius: 5px;
+}
+.part1ofcontentdivPart2{
+    height: 100%;
+    width: 60%;
+}
+
+
+
+.part1ofcontentdivPart2Part1{
+    height: 50%;
+    width: 100%;
+    color: white;
+}
+.para{
+    font-size: 25px;
+    font-family: monospace;
+    color: white;
+    padding: 5px 20px;
+}
+.para1{
+    font-size: 15px;
+    font-family: monospace;
+    color: rgb(149, 205, 255);
+    padding: 5px 20px;
+}
+.part1ofcontentdivPart2Part2{
+    height: 50%;
+    width: 100%;
+    color: white;
+}
+
+.para3{
+    font-size: 15px;
+    padding: 0px 20px;
+}
+.para3 span{
+    font-size: 15px;
+    padding: 0px 10px;
+    color: rgb(182, 220, 220);
+}
+.para5{
+    font-size: 15px;
+    padding: 20px 20px;
+}
